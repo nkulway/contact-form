@@ -1,0 +1,18 @@
+h1, h2 {
+    font-family: Lato;
+  }
+  
+  div {
+    display: flex;
+    justify-content: space-between;
+    margin: 14px 0;
+  }
+  
+  label {
+    display: inline-block;
+    min-width: 100px;
+  }
+  
+  button {
+    margin-top: 20px;
+  }
